@@ -22,8 +22,8 @@ From there, you will be given a form to put your url into. Once you press submit
 
 This tool was created using: 
 
-[node](https://nodejs.org/en/)
-[React.js](https://reactjs.org/)
-[pa11y](https://github.com/pa11y/pa11y)
-[styled-compnents](https://github.com/styled-components/styled-components)
-[react-icons](https://github.com/react-icons/react-icons)
+1. [node](https://nodejs.org/en/)
+2. [React.js](https://reactjs.org/)
+3. [pa11y](https://github.com/pa11y/pa11y)
+4. [styled-compnents](https://github.com/styled-components/styled-components)
+5. [react-icons](https://github.com/react-icons/react-icons)
