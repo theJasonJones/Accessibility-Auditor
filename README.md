@@ -1,6 +1,6 @@
 # Accessibility-Auditor
 
-Node/React application that scraps a webpage and generate an accessibility report.
+Node/React application that scrapes a webpage and generates an accessibility report.
 
 **To use:**
 
@@ -20,4 +20,10 @@ From there, you will be given a form to put your url into. Once you press submit
 
 ## Background
 
-This tool was created using node, React.js, pa11y, styled-compnents and react-icons. 
+This tool was created using: 
+
+[node](https://nodejs.org/en/)
+[React.js](https://reactjs.org/)
+[pa11y](https://github.com/pa11y/pa11y)
+[styled-compnents](https://github.com/styled-components/styled-components)
+[react-icons](https://github.com/react-icons/react-icons)
