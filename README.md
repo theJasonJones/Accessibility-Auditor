@@ -2,7 +2,9 @@
 
 Node/React application that scraps a webpage and generate an accessibility report.
 
-To use: 
+**To use:**
+
+**Setup:** `npm i` in the both the main directory and the `public/` directory.
 
 1. Start up node API
 
