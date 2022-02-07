@@ -14,7 +14,7 @@ This will start the node server that holds the API, from there go to `localhose:
 
 2. Start up the front end
 
-`npm run start`
+`cd public/ && npm run start`
 
 From there, you will be given a form to put your url into. Once you press submit the data should be returned in a few seconds. 
 
